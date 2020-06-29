@@ -17,7 +17,7 @@ GIVEN I need a new, secure password.
 
 WHEN I click the button to generate a password,
 
-[First screen](https://github.com/Modernwyatt/passwordGenerator/blob/master/genPass1.PNG
+[First screen](https://github.com/Modernwyatt/passwordGenerator/blob/master/genPass1.PNG)
 
 THEN I am presented with a series of prompts for password criteria.
 WHEN prompted for password criteria,
