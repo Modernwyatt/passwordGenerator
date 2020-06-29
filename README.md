@@ -19,7 +19,7 @@ GIVEN I need a new, secure password
 
 WHEN I click the button to generate a password
 
-![First screen](/passwordGenerator/genPass1.png)
+![First screen](../passwordGenerator/genPass1.png)
 
 THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria
